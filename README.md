@@ -12,7 +12,7 @@
 - rear teep
 - round house
 
-Drills:
+### Drills:
 - Warm up migration drills
 - Wall shadow boxing
     - sequences: jab, check, teep
@@ -21,7 +21,7 @@ Drills:
 - Stepping migration
 - Alternating punches
 
-Ideas:
+### Notes/Ideas:
 - Punch with first and second knuckle
 - Front jab shoulder up to protect chin/face
 - Roundhouse kick turn out foot and elevate to ball of foot
