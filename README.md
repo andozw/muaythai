@@ -1,5 +1,10 @@
 # Muay Thai
 
+### Classes
+2024/01/25
+2024/01/18
+2024/01/04?
+
 - front jab
 - cross
 - step drop
@@ -20,9 +25,11 @@
 - Roundhouse calf-raises
 - Stepping migration
 - Alternating punches
+- Tape drill / line for home base. Keep returning to home.
 
 ### Notes/Ideas:
 - Punch with first and second knuckle
 - Front jab shoulder up to protect chin/face
 - Roundhouse kick turn out foot and elevate to ball of foot
 - Roundhouse extend cross arm for counter balance
+- Make sure thumb is tucked under fist, don't let it get loose
