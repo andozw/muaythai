@@ -1,9 +1,11 @@
 # Muay Thai
 
 ### Classes
+2024/02/01
 2024/01/25
 2024/01/18
 2024/01/04?
+
 
 - front jab
 - cross
@@ -33,3 +35,5 @@
 - Roundhouse kick turn out foot and elevate to ball of foot
 - Roundhouse extend cross arm for counter balance
 - Make sure thumb is tucked under fist, don't let it get loose
+- Fighting is a hundred answers to the same question
+- Left hook turn hand so thumb is up and rotate body and left leg through like golf
