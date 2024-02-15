@@ -1,6 +1,8 @@
 # Muay Thai
 
-### Classes
+### Lessons
+2024/02/15
+2024/02/08
 2024/02/01
 2024/01/25
 2024/01/18
@@ -28,6 +30,7 @@
 - Stepping migration
 - Alternating punches
 - Tape drill / line for home base. Keep returning to home.
+- Tape x drill. Can go 4 directions. Can also go 6 directions. Can also punch.
 
 ### Notes/Ideas:
 - Punch with first and second knuckle
