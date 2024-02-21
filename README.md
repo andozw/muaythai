@@ -21,6 +21,13 @@
 - rear teep
 - round house
 
+### People:
+Lance
+Jane
+Cha
+Nick
+Taylor
+
 ### Drills:
 - Warm up migration drills
 - Wall shadow boxing
@@ -40,3 +47,5 @@
 - Make sure thumb is tucked under fist, don't let it get loose
 - Fighting is a hundred answers to the same question
 - Left hook turn hand so thumb is up and rotate body and left leg through like golf
+- "You give and then you give"
+- "A commitment to fitness is a commitment to laundry" --Lance
