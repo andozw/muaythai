@@ -1,6 +1,7 @@
 # Muay Thai
 
 ### Lessons
+2024/02/22
 2024/02/15
 2024/02/08
 2024/02/01
@@ -27,6 +28,10 @@ Jane
 Cha
 Nick
 Taylor
+Greg
+Marquis
+Tall Guy Dustin
+KZ
 
 ### Drills:
 - Warm up migration drills
@@ -49,3 +54,5 @@ Taylor
 - Left hook turn hand so thumb is up and rotate body and left leg through like golf
 - "You give and then you give"
 - "A commitment to fitness is a commitment to laundry" --Lance
+- Turn the kicks
+- Hands up
