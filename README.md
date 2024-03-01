@@ -1,6 +1,7 @@
 # Muay Thai
 
 ### Lessons
+2024/03/01 - Friday
 2024/02/22
 2024/02/15
 2024/02/08
@@ -32,6 +33,7 @@ Greg
 Marquis
 Tall Guy Dustin
 KZ
+Big Guy Justin
 
 ### Drills:
 - Warm up migration drills
