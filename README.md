@@ -1,6 +1,8 @@
 # Muay Thai
 
 ### Lessons
+2024/03/11 - Friday
+2024/03/08 - Fri
 2024/03/04 - Mon
 2024/03/01 - Friday
 2024/02/22
@@ -34,7 +36,11 @@ Greg
 Marquis
 Tall Guy Dustin
 KZ
+Tall guy Patrick
 Big Guy Justin
+Arvin - intense, great
+Paula
+
 
 ### Drills:
 - Warm up migration drills
@@ -59,3 +65,6 @@ Big Guy Justin
 - "A commitment to fitness is a commitment to laundry" --Lance
 - Turn the kicks
 - Hands up
+
+### Training:
+- Crawling
