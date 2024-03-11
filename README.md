@@ -1,7 +1,8 @@
 # Muay Thai
 
 ### Lessons
-2024/03/11 - Friday
+2024/03/11 - Mon
+---Paid for another 10 on 3/11
 2024/03/08 - Fri
 2024/03/04 - Mon
 2024/03/01 - Friday
